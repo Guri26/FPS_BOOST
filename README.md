@@ -12,4 +12,4 @@ Modification:
     Open the Client.lua change  the numbers from 0.0 to 1.0 
     
 ```
-![Preview Screenshot]([https://imgur.com/a/BJ6NcDt](https://cdn.discordapp.com/attachments/954097917369651231/1102669664116543499/image.png))
+![Preview Screenshot](https://cdn.discordapp.com/attachments/954097917369651231/1102669664116543499/image.png)
